@@ -1,7 +1,5 @@
 # DEProject
-Data Engineering Project Semester 9. The aim of this project is so analyze datasets and find trends and patterns among the data. Performed ETL pipeline and Twitter sentiment analysis
-
-Data Engineering Project Winter 2020 GUC
+Data Engineering Project Winter 2020
 
 Project overview: The aim of this is project is to go over the data engineering process, find research questions and answers to them, and investigate further questions. The data has been collected from 3 datasets, The World Happiness Report, All 250 countries data and Life Expectancy data. The main aim is to find co-relation between happiness and life expectancy/diseases in 2015.
 
